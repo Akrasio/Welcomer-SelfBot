@@ -1,0 +1,30 @@
+{
+	"token": "",
+	"ahni":{
+		"key": "",
+		"url": "https://kyra.tk"
+	},
+	"guildsWl": [],
+	"guilds":[{
+		"GUILD_1_ID":{
+				"ai": false,
+				"welcome": {
+					"isEmbed": false,
+					"isSystem": false,
+					"botId": "",
+					"channelId": "",
+					"message": "Hello and Welcome, $user!"
+				}
+		},
+		"GUILD_2_ID":{
+				"ai": false,
+				"welcome": {
+					"isEmbed": true,
+					"isSystem": true,
+					"botId": "",
+					"channelId": "",
+					"message": "Hello and Welcome, $user!"
+				}
+			}
+		}]
+	}
